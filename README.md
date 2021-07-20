@@ -1,4 +1,4 @@
-#TECH TACK
+#TECH STACK
 1. javascript
 2. html
 3. css
