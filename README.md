@@ -1,7 +1,9 @@
-#**TECH TACK**
--javascript
--html
--css
+#TECH TACK
+1. javascript
+2. html
+3. css
+
+
 
 Mock UI. 
 To run use liveserver and open index.html
